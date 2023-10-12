@@ -43,7 +43,6 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.WebDataBinder"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="org.springframework.beans.propertyeditors.CustomDateEditor"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.InitBinder"/>
     <fullyQualifiedTypeName name="org.zerock.domain.TodoDTO"/>
     <fullyQualifiedTypeName name="org.springframework.format.annotation.DateTimeFormat"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
@@ -60,4 +59,5 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseStatus"/>
     <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ExceptionHandler"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.InitBinder"/>
 </qualifiedTypeNameHistroy>
