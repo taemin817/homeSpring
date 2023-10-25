@@ -1,6 +1,8 @@
 INDEX VERSION 1.131
 C:\Users\ptaem\homespring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3012140731.index
 \ex01\src\main\java
+C:\Users\ptaem\homespring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2575492443.index
+\exbatis\src\main\java
 C:\Users\ptaem\homespring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2694948808.index
 \ex02\src\main\java
 C:\Users\ptaem\homespring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3178133098.index
